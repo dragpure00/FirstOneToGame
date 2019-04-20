@@ -1,5 +1,5 @@
 //Ayaz Araf
-//Hw3 CS 212
+
 import java.util.Random;
 import java.util.Scanner;
 
